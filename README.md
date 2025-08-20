@@ -32,11 +32,21 @@ Nr.Parc	Siperfaqia		Nr.Parc	Siperfaqia
     00061-2	4489	m²			
 Gjithsej	6989	m²	Gjithsej	6989	m²
 
+
+Gjendja e vjetër			Gjendja e re		
+Nr.Parc	Siperfaqia		Nr.Parc	Siperfaqia	
+    00541-0	6989	m²	    00541-1	2589	m²
+			                00541-2	1900	m²
+			                00541-3	2500	m²
+Gjithsej	6989	m²	Gjithsej	6989	m²
+
 ```
 
 # nr landes
 
 ```
+
+236/2025
 00061-1,00061-2
 Elmi (Ahmet) Mihalica
 1500690280 
