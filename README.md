@@ -37,8 +37,11 @@ Gjithsej	6989	m²	Gjithsej	6989	m²
 # nr landes
 
 ```
-
-Elmi (Ahmet) Mihalica 1500690280 +383 49 535 250 00061-0 Prelez i Muhaxherëve
+00061-1,00061-2
+Elmi (Ahmet) Mihalica
+1500690280 
++383 49 535 250 
+Prelez i Muhaxherëve
 241/2024
 
 ```
